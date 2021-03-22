@@ -1,5 +1,6 @@
 {
- "name": "App",
+ "short_name": "Robofriends",
+ "name": "Robofreiends",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
@@ -36,12 +37,10 @@
    "sizes": "192x192",
    "type": "image\/png",
    "density": "4.0"
-  },
-  {
-   "src": "\/android-icon-192x192.png",
-   "sizes": "512x512",
-   "type": "image\/png",
-   "density": "4.0"
   }
- ]
+ ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
