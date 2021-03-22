@@ -1,5 +1,6 @@
 {
- "name": "App",
+  "short_name": "Robofriends",
+  "name": "Robofreiends",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
